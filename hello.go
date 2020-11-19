@@ -7,7 +7,7 @@ import (
 
 func Hello() string {
 
-	//return "Hello World" firm Git
+	//return "Hello World" firm Git form vsCode
 
 	return quote.Hello()
 }
