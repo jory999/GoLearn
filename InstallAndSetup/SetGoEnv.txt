@@ -1,11 +1,11 @@
-1. ¹ÙÍøÏÂÔØ°²×°°ü
-2. °²×° Visual studio Code
-3. °²×°GO²å¼ş
-4.Ctrl+Shift+P ËÑË÷£ºgo:install/update Tools
-  ¹úÄÚ´úÀí: 	 go env -w GO111MODULE=on
+1. å®˜ç½‘ä¸‹è½½å®‰è£…åŒ…
+2. å®‰è£… Visual studio Code
+3. å®‰è£…GOæ’ä»¶
+4.Ctrl+Shift+P æœç´¢ï¼šgo:install/update Tools
+  å›½å†…ä»£ç†: 	 go env -w GO111MODULE=on
                   	 go env -w GOPROXY=https://goproxy.cn,direct
 --------------------------------------------------------------------------------
-
+--About module set
 5. go list -m all
 6 go mod init github.com/jory999/GoLearn/m/v2
 
