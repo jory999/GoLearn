@@ -1,0 +1,11 @@
+1. 官网下载安装包
+2. 安装 Visual studio Code
+3. 安装GO插件
+4.Ctrl+Shift+P 搜索：go:install/update Tools
+  国内代理: 	 go env -w GO111MODULE=on
+                  	 go env -w GOPROXY=https://goproxy.cn,direct
+--------------------------------------------------------------------------------
+
+5. go list -m all
+6 go mod init github.com/jory999/GoLearn/m/v2
+
